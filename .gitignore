@@ -1,0 +1,19 @@
+# Haskell compilado
+*.hi
+*.o
+*.dyn_hi
+*.dyn_o
+dist/
+dist-newstyle/
+.stack-work/
+cabal-dev/
+*.hp
+*.prof
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
